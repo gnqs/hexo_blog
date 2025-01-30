@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>开源协议</title>
+      <link href="/2025/01/30/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE/"/>
+      <url>/2025/01/30/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Apache"><a href="#Apache" class="headerlink" title="Apache"></a>Apache</h3><ul><li>需要给代码的用户一份Apache Licence。</li><li>如果修改了代码，需要在被修改的文件中说明。</li><li>在衍生的代码中（修改和有源代码衍生的代码中）需要带有原来代码中的协议，商标，专利声明和其他原来作者规定需要包含的说明。</li><li>如果再发布的产品中包含一个Notice文件，则在Notice文件中需要带有Apache Licence。你可以再Notice中增加自己的许可，但是不可以表现为对Apache Licence构成更改。</li><li>Apache Licence也是对商业应用友好的许可。使用者也可以再需要的时候修改代码来满足并作为开源或商业产品发布&#x2F;销售</li></ul><h3 id="GPL-General-Public-License"><a href="#GPL-General-Public-License" class="headerlink" title="GPL  (General Public License"></a>GPL  (General Public License</h3><p>衍生软件必须开源</p><p>example: ffmepg</p><h3 id="BSD-Berkeley-Software-Distribution"><a href="#BSD-Berkeley-Software-Distribution" class="headerlink" title="BSD (Berkeley Software Distribution"></a>BSD (Berkeley Software Distribution</h3><ul><li>1． 如果再发布的产品中包含源代码，则在源代码中必须带有原来代码中的BSD协议。</li><li>2． 如果再发布的只是二进制类库&#x2F;软件，则需要在类库&#x2F;软件的文档和版权声明中包含原来代码中的BSD协议。</li><li>3． 不可以用开源代码的作者&#x2F;机构名字和原来产品的名字做市场推广</li></ul><p>example: nginx</p><h3 id="MIT-Massachusetts-Institute-of-Technology"><a href="#MIT-Massachusetts-Institute-of-Technology" class="headerlink" title="MIT (Massachusetts Institute of Technology"></a>MIT (Massachusetts Institute of Technology</h3><p>唯一的条件就是在修改后的代码或者发行包包含原作者的许可信息</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客部署</title>
       <link href="/2025/01/30/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
       <url>/2025/01/30/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/</url>
